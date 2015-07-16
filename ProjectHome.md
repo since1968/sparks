@@ -1,0 +1,1 @@
+Mint plug-in to generate sparkline graphs for your site stats. Sparks is maintained by Colby Makowsky and Marc A. Garrett.
